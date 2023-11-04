@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C,C++,Python,JAVA
 - 💞️ I’m looking to collaborate on IOT Projects
 - 📫 How to reach me >>> prakharkhare9454@gmail.com
+- 🚀 "Passionate coder on a journey to explore the world of open source and software development. #CodeLife "
 - ✨ My social media accounts for instagram,twitter is shreyas_9519
 - ✨ My linkedin account is shreyas-khare
 
